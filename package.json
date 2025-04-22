@@ -1,0 +1,25 @@
+{
+  "name": "network-speed-ip-checker",
+  "version": "1.0.0",
+  "description": "A modern web application to check network speed and IP address information",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "install-backend": "cd backend && npm install",
+    "setup": "npm run install-backend"
+  },
+  "keywords": [
+    "network",
+    "speed",
+    "test",
+    "ip",
+    "checker",
+    "tailwindcss"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+} 
