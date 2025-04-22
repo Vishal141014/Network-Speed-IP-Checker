@@ -2,8 +2,6 @@
 
 A modern web application to check your network speed and IP address information.
 
-![Network Speed & IP Checker](https://via.placeholder.com/800x400?text=Network+Speed+%26+IP+Checker)
-
 ## Features
 
 - **IP Information**: Displays your public IP address and location details using the ipapi.co API
